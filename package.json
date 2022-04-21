@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "dummy-module",
+  "version": "1.0.0",
+  "description": "This is a dummy module developed for practicing nodeJS which I am new to.",
+  "main": "Addition.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm install nirmal-dummy-module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nirmal-coder/Node-Module.git"
+  },
+  "keywords": [
+    "nirmal",
+    "dummy"
+  ],
+  "author": "Nirmal-coder <adhikareen@gmail.com> (https://nirmalcoder.pythonanywhere.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirmal-coder/Node-Module/issues"
+  },
+  "homepage": "https://github.com/Nirmal-coder/Node-Module#readme"
+}
